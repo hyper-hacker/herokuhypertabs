@@ -15,4 +15,5 @@ if (newvalue == '2F%3Finspect') {
 
 
 
-//bundle.js
+
+//bundle.js and document.js
